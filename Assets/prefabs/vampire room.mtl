@@ -1,0 +1,20 @@
+# Made in Blockbench 4.12.3
+newmtl m_0f8647ab-8843-2314-1ef6-899f997323a3
+map_Kd caixãoTex.png
+newmtl m_c5044ddd-ed47-934e-501b-b6e066546bb0
+map_Kd textureCaixão2.png
+newmtl m_15f33cc2-9852-80a6-50d0-866f678ef677
+map_Kd lareira.png
+newmtl m_113e9982-f190-fd5d-67d8-ed01a70fb5ee
+map_Kd texture.png
+newmtl m_085d4fb2-48f7-a8b8-04e5-244388445e52
+map_Kd paredeLareira.png
+newmtl m_a1c4de28-b0e2-748e-9031-ef1cefe3b897
+map_Kd textureentrada.png
+newmtl m_4b5e08fa-b098-7254-ce98-c88e13b542e8
+map_Kd floor.png
+newmtl m_a981f1d6-9aad-9826-571b-05b2143e0e13
+map_Kd wood.png
+newmtl m_3bc07b41-e29e-786d-c69a-eac112244b70
+map_Kd book color.png
+newmtl none
